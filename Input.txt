@@ -1,0 +1,14 @@
+ChatScreenShow.class -> java.base
+ChatScreenShow.class -> java.rmi
+ChatScreenShow.class -> not found
+          com.devexperts.tos.chat.ChatScreenShown       -> com.devexperts.tos.data.ScreenShowFrame      not found
+          com.devexperts.tos.chat.ChatScreenShown       -> com.devexperts.tos.data.ScreenShowFrameServiceMessage not found
+          com.devexperts.tos.chat.ChatScreenShown       -> java.lang                                    java.base
+"**********************************************************************************************************"
+ChatScreenShow1.class -> java.base
+ChatScreenShow1.class -> java.rmi
+ChatScreenShow1.class -> not found
+          com.devexperts.tos.chat.ChatScreenShow1       -> com.devexperts.tos.data.ScreenShowFramesMessage not found
+          com.devexperts.tos.chat.ChatScreenShow1       -> com.devexperts.tos.data.ScreenShowFrameServiceMessages not found
+          com.devexperts.tos.chat.ChatScreenShow1       -> java.lang                                    java.base
+"**********************************************************************************************************"
